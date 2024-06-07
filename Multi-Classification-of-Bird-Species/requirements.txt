@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+gdown
+wikipedia-api
+streamlit==1.29
+streamlit-cropper
+streamlit-option-menu
